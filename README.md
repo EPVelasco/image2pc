@@ -1,8 +1,8 @@
 # image2pc
-This code converts a depth image provided by the (pc2image)[https://github.com/EPVelasco/pc2image/tree/depthImage_zImage] package of a Velodyne VLP16 3D-Lidar sensor into a point cloud.
+This code converts a depth image provided by the [pc2image](https://github.com/EPVelasco/pc2image/tree/depthImage_zImage) package of a Velodyne VLP16 3D-Lidar sensor into a point cloud.
 
 ## Requisites
-- (pc2image)[https://github.com/EPVelasco/pc2image/tree/depthImage_zImage]
+- [pc2image](https://github.com/EPVelasco/pc2image/tree/depthImage_zImage)
 - [ROS](http://wiki.ros.org/ROS/Installation) Kinetic or Melodic
 - [Velodyne](https://github.com/ros-drivers/velodyne) repository
   ```
